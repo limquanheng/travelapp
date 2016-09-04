@@ -1,6 +1,6 @@
 # travelapp
 
-Application is created on ionic/cordova, targeted for android platforms. Backend replies on backand.
+Application is created on ionic/cordova, targeted for android platforms. Backend uses backand.
 
 Base requirements are node.js, cordova and ionic installed.
 
