@@ -21,3 +21,5 @@ The www folder can be used to create a ionic project for running. Note the follo
 Alternatively, the RAR file can be unzipped and the project run from there.
 
 As some features require hardware from an android device, ionic serve will not have full functionality.
+
+Refer to wiki for more details.
